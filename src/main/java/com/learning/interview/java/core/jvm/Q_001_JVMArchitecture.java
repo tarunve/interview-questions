@@ -4,7 +4,7 @@ import java.lang.reflect.Method;
 
 /**
  *  -   Responsible for 3 activities:
- *      1.  Loading     2.  Linking     3.  Verification
+ *      1.  Loading     2.  Linking     3.  Initialization
  *  -   While loading, linking and initialization, if any error occurs then we will get
  *      RE: java.lang.LinkageError.
  *
